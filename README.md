@@ -84,9 +84,3 @@ Beispielausgabe:
 - Das Spiel endet automatisch bei Verlust oder Unentschieden
 
 ---
-
-## Autor
-
-Bewerber für die Ausbildung bei **adesso**  
-(Projekt im Rahmen einer Bewerbungsaufgabe)
-
