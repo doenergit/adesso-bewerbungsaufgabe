@@ -73,7 +73,6 @@ Beispielausgabe:
 ## Entscheidungen
 
 - Spiel in Konsole aufgebaut, da ich im Studium den Umgang damit gelernt habe
-- Ich wollte zu den Symbolen eigentlich Namen abfragen, sodass der Anfangsbuchstabe als Symbol auftaucht, aber mit gleichen Buchstaben + meinem Können habe ich das nicht hinbekommen.
 - Ich habe es nicht geschafft eine Diagonale Abfrage erfolgreich zu schreiben.
 
 ---
