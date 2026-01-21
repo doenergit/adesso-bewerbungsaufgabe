@@ -61,7 +61,7 @@ Beispielausgabe:
 2. `Main` ausführen
 3. Eingabe im Format:
    ```
-   Zeile Spalte
+   Reihe Spalte
    ```
    Beispiel:
    ```
